@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#696969"
+        android:gravity="center"
+        android:text="Update Content Panel"
+        android:textColor="#000"
+        android:textSize="25sp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:hint="Image URL"
+        android:id="@+id/uimgurl"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"
+        android:textColor="#000"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Name"
+        android:id="@+id/uname"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"
+        android:textColor="#000"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Contact"
+        android:id="@+id/ucontact"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"
+        android:textColor="#000"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Address"
+        android:id="@+id/uaddress"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"
+        android:textColor="#000"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Criminal Type"
+        android:id="@+id/ucriminaltype"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"
+        android:textColor="#000"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Habits"
+        android:id="@+id/uhabits"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"
+        android:textColor="#000"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Previous Record"
+        android:id="@+id/upr"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"
+        android:textColor="#000"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Remand Date"
+        android:id="@+id/uremand"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"
+        android:textColor="#000"/>
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Update"
+        android:id="@+id/usubmit"
+        android:background="#696969"
+        android:textColor="#fff"
+        android:layout_gravity="center"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        />
+
+</LinearLayout>

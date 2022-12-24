@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "222221778721",
+    "firebase_url": "https://ecrime-b3707-default-rtdb.firebaseio.com",
+    "project_id": "ecrime-b3707",
+    "storage_bucket": "ecrime-b3707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222221778721:android:c3e5bd5c3a5622e8d58860",
+        "android_client_info": {
+          "package_name": "com.example.ecrimeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222221778721-f72cive4v667p650ntu4bq3cgu8fnk21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeQJqqMJcDSh3ghHczmIiJC99H4RnfVnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222221778721-f72cive4v667p650ntu4bq3cgu8fnk21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
